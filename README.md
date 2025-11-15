@@ -1,8 +1,6 @@
 # Citizen Reporting App (Cordova)
 
-**Description:**  
-The **Citizens Reporting App** is a mobile application developed as the final project for the **Mobile App Development Training** at **Bincom Dev Center**.  
-It was built using **Cordova** and **App.js**, showcasing key mobile development skills such as:
+The **Citizens Reporting App** is a cross-platform mobile app built using **Cordova** and **App.js** showcasing key mobile development skills such as:
 
 - **Geolocation** to capture and display user location  
 -  **Image handling** for attaching evidence to reports  
@@ -12,12 +10,11 @@ It was built using **Cordova** and **App.js**, showcasing key mobile development
 This project reflects the practical application of cross-platform mobile development and API integration.
 
 
- 
 ---
 
 ## **Features**  
 - Mobile app built with **Cordova + App.js**  
-- Incident reporting with **geolocation**  
+- Incident reporting with **geolocation** 
 - Upload images for incidents  
 - Push notifications using **Firebase**  
 - Backend integration with **WordPress REST API**  
