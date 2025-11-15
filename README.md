@@ -1,6 +1,6 @@
 # Citizen Reporting App (Cordova)
 
-The **Citizens Reporting App** is a cross-platform mobile app built using **Cordova** and **App.js** showcasing key mobile development skills such as:
+The **Citizen Reporting App** is a cross-platform mobile app built using **Cordova** and **App.js** showcasing key mobile development skills such as:
 
 - **Geolocation** to capture and display user location  
 -  **Image handling** for attaching evidence to reports  
