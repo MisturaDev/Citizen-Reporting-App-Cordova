@@ -44,6 +44,17 @@ This project reflects the practical application of cross-platform mobile develop
 | ![Submit Incident 2](media/submit-incident-2.PNG) | ![Incident 1](media/incident-1.PNG) | ![Incident 2](media/incident-2.PNG) |
 
 
+### Mobile View
+
+| Login | Welcome |
+|-------|---------|
+| ![Login](media/Login.jpg) | ![Welcome](media/Welcome.jpg) |
+
+| Submit_Incident_1 | Submit_Incident_2 | Incident_Submitted |
+|------------------|-----------------|------------------|
+| ![Submit_Incident_1](media/Submit_Incident_1.jpg) | ![Submit_Incident_2](media/Submit_Incident_2.jpg) | ![Incident_Submitted](media/Incident_Submitted.jpg) |
+
+
 ---
 
 ## **APK**  
